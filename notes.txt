@@ -1,0 +1,23 @@
+Prereqs:
+- Javascript fundamentals
+- Asynch programming - promises, callbacks, async/await
+- HTTP basics
+- JSON apis
+- NPM (node package manager)
+
+How does Node.js work?
+- Built on V8 JS Engine
+- It is non blocking
+- Single threaded, runs event loop
+Used for
+- apis
+- Server side apps
+- web scraping
+
+2 Types
+- Common JS
+    - uses require, export module =
+- ES
+
+Use default when its like the only thing
+- When using, dont need curly braces
